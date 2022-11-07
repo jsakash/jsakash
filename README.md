@@ -21,7 +21,7 @@ I’m a self learned backend developer with GoLang
 - 🌱 I’m currently learning **DevOps**
   
 
-- ❓ Ask me about * Go *  
+- ❓ Ask me about **Go**
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
