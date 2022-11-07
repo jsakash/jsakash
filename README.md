@@ -15,10 +15,10 @@ I’m a self learned backend developer with GoLang
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ** Docker and Kubernetes **
+- 🔭 I’m currently working on **Docker and Kubernetes**
   
 
-- 🌱 I’m currently learning * DevOps  *
+- 🌱 I’m currently learning **DevOps**
   
 
 - ❓ Ask me about * Go *  
